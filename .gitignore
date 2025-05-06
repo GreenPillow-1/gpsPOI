@@ -6,6 +6,10 @@ expo-env.d.ts
 # @end expo-cli
 node_modules
 <<<<<<< HEAD
+<<<<<<< HEAD
 firebase.js
 =======
 >>>>>>> 0c7eac46 (add gitignore)
+=======
+firebase.js
+>>>>>>> 2955115c (gitignore firebase.js)
